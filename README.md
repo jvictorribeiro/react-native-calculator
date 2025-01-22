@@ -9,6 +9,8 @@ This project was developed using:
 - [Expo](https://expo.dev/)
 
 
+![Badge](.github/calculator.gif)
+
 <h2>
   📌 To have a copy of the project
 </h2>
